@@ -1,0 +1,18 @@
+### 名前を登録
+git config --global user.name "k5saito"
+### メールアドレスを登録
+git config --global user.email "amanok5@gmail.com"
+
+上記を設定したあとに下記で設定をすると確認できる
+git config --global user.name 
+git config --global user.email 
+
+
+■イニシャライズの設定
+
+cdでディレクトリを操作したいところに移動させる
+
+GITの初期化（イニシャライズ）
+git init
+
+git status
