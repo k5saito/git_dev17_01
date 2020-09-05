@@ -1,12 +1,16 @@
 使うコマンド
 git init
 git status
+
+保存操作
 git add .
+git commit -m "メッセージを記載"
+
 git log
-git commit -m
+
 git push origin head
 
-初期設定
+■初期設定
 https://qiita.com/manabu-watanabe/items/ecf1b434baf305adaa00
 
 ### 名前を登録
